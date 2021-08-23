@@ -1,0 +1,20 @@
+C:\Users\Monster\Desktop\Kelime Bulma\Kelime Bulma\obj\Debug\Kelime Bulma.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\Kelime Bulma\Kelime Bulma\obj\Debug\Kelime_Bulma.Form1.resources
+C:\Users\Monster\Desktop\Kelime Bulma\Kelime Bulma\obj\Debug\Kelime_Bulma.Properties.Resources.resources
+C:\Users\Monster\Desktop\Kelime Bulma\Kelime Bulma\obj\Debug\Kelime Bulma.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\Kelime Bulma\Kelime Bulma\obj\Debug\Kelime Bulma.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Kelime Bulma\Kelime Bulma\bin\Debug\Kelime Bulma.exe.config
+C:\Users\Monster\Desktop\Kelime Bulma\Kelime Bulma\bin\Debug\Kelime Bulma.exe
+C:\Users\Monster\Desktop\Kelime Bulma\Kelime Bulma\bin\Debug\Kelime Bulma.pdb
+C:\Users\Monster\Desktop\Kelime Bulma\Kelime Bulma\obj\Debug\Kelime Bulma.exe
+C:\Users\Monster\Desktop\Kelime Bulma\Kelime Bulma\obj\Debug\Kelime Bulma.pdb
+C:\Users\erayf\Desktop\Kelime Bulma\Kelime Bulma\bin\Debug\Kelime Bulma.exe.config
+C:\Users\erayf\Desktop\Kelime Bulma\Kelime Bulma\bin\Debug\Kelime Bulma.exe
+C:\Users\erayf\Desktop\Kelime Bulma\Kelime Bulma\bin\Debug\Kelime Bulma.pdb
+C:\Users\erayf\Desktop\Kelime Bulma\Kelime Bulma\obj\Debug\Kelime Bulma.csproj.AssemblyReference.cache
+C:\Users\erayf\Desktop\Kelime Bulma\Kelime Bulma\obj\Debug\Kelime_Bulma.Form1.resources
+C:\Users\erayf\Desktop\Kelime Bulma\Kelime Bulma\obj\Debug\Kelime_Bulma.Properties.Resources.resources
+C:\Users\erayf\Desktop\Kelime Bulma\Kelime Bulma\obj\Debug\Kelime Bulma.csproj.GenerateResource.cache
+C:\Users\erayf\Desktop\Kelime Bulma\Kelime Bulma\obj\Debug\Kelime Bulma.csproj.CoreCompileInputs.cache
+C:\Users\erayf\Desktop\Kelime Bulma\Kelime Bulma\obj\Debug\Kelime Bulma.exe
+C:\Users\erayf\Desktop\Kelime Bulma\Kelime Bulma\obj\Debug\Kelime Bulma.pdb
